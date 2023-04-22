@@ -32,6 +32,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosyh&" alt="marcosyh" /></p>
 
+## Github Trophy 🏆
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosyh&label=Profile%20views&color=0e75b6&style=flat" alt="marcosyh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosyh" alt="marcosyh" /></a> </p>
+
+
+
+
+
 <!--
 **MarcosYH/MarcosYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

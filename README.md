@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/marcosdeimos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcosdeimos" height="30" width="40" /></a> -->
-<a href="https://www.twitter.com/marcosyehouessi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.twitter.com/marcosyehouessi" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="marcosyehouessi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcos-yehouessi-2a202a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-yehouessi-2a202a1b9" height="30" width="40" /></a>
 <a href="https://discord.gg/Marcos18#6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marcos18#6201" height="30" width="40" /></a>
 </p>

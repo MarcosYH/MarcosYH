@@ -1,7 +1,7 @@
 # Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Marcos YEHOUESSI
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Full Stack dev  
+## <picture><img src="https://res.cloudinary.com/dbx3mcmdp/image/upload/v1733905711/anyhwqfdsp67nzxun1y5.gif" width=50px /></picture> Full Stack dev  
 
 <br>
 

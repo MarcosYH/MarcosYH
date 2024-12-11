@@ -1,0 +1,45 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "03 4 * * *" # Exécute chaque jour à 13:37 UTC
+  workflow_dispatch: # Permet de lancer manuellement
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [20.x]
+    steps:
+      # Étape 1 : Vérifier le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+        # Étape 2 : utiliser la version 20 de node
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      # Étape 3 : Mettre à jour le README.md
+      - name: Update README.md
+        run: |
+          node index.js > README.md
+        env:
+          CI: true
+
+      # Étape 4 : Ajouter, commit et push les changements
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Marcos Y.
+          author_email: marcosdeimos18@gmail.com
+          force: false
+          signoff: false
+          message: "Updated by Cobot"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

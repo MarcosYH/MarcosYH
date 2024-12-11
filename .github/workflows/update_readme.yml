@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "03 4 * * *" # Exécute chaque jour à 13:37 UTC
+    - cron: "30 12 * * *" # Exécute chaque jour à 12h30 UTC
   workflow_dispatch: # Permet de lancer manuellement
 
 jobs:
@@ -40,6 +40,6 @@ jobs:
           author_email: marcosdeimos18@gmail.com
           force: false
           signoff: false
-          message: "Updated by Cobot"
+          message: "docs: :memo: README.md updated"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

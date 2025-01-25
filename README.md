@@ -1,13 +1,12 @@
-<picture><img src="https://res.cloudinary.com/dbx3mcmdp/image/upload/v1737787781/bvzkbii4hf2m2sn4atkh.png" /></picture>
+# Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Marcos YEHOUESSI
 
-# 👋 Hi, my name is Marcos YEHOUESSI
 
-## <picture><img src="https://res.cloudinary.com/dbx3mcmdp/image/upload/v1733905711/anyhwqfdsp67nzxun1y5.gif" width=50px /></picture> I'm Full Stack dev
+## <picture><img src="https://res.cloudinary.com/dbx3mcmdp/image/upload/v1733905711/anyhwqfdsp67nzxun1y5.gif" width=50px /></picture> Full Stack dev  
 
 <br>
 
-- 🌱 I’m currently learning flutter and python.
-- 🌎📍Location: Cotonou-Bénin 
+- 🌱 I’m currently learning Nodejs, React, flutter and python.
+- 🌎📍Location: Calavi-Bénin 
 - 📫 How to reach me: marcosdeimos18@gmail.com
 - 🎮 game enthusiast 
 <br><br>

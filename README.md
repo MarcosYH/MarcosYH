@@ -35,9 +35,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosyh&label=Profile%20views&color=0e75b6&style=flat" alt="marcosyh" /> </p>
 
 
-**📅 Last update on Sun Nov 30 2025
+**📅 Last update on Mon Dec 01 2025
 
-**🎉 **32 day before 2026 ⏱** days before new years
+**🎉 **31 day before 2026 ⏱** days before new years
 
 <!--
 **MarcosYH/MarcosYH** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.

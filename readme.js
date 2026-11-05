@@ -1,56 +1,100 @@
-module.exports = `# Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Marcos YEHOUESSI
-
-
-## <picture><img src="https://res.cloudinary.com/dbx3mcmdp/image/upload/v1733905711/anyhwqfdsp67nzxun1y5.gif" width=50px /></picture> Full Stack dev  
-
-<br>
-
-- 🌱 I’m currently learning Nodejs, React, flutter and python.
-- 🌎📍Location: Calavi-Bénin 
-- 📫 How to reach me: marcosdeimos18@gmail.com
-- 🎮 game enthusiast 
-<br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/marcosdeimos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcosdeimos" height="30" width="40" /></a> -->
-<a href="https://www.twitter.com/marcosyehouessi" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="marcosyehouessi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcos-yehouessi-2a202a1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos-yehouessi-2a202a1b9" height="30" width="40" /></a>
-<a href="https://discord.gg/Marcos18#6201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Marcos18#6201" height="30" width="40" /></a>
+module.exports = `<p align="center">
+  <a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs"><img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="420" alt="The Simpsons: Homer at a terminal. To start, press any key. Where's the any key?" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats🚀
+<p align="center">
+  <b>Fall. Debug. Redeploy. Repeat.</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosyh&show_icons=true&theme=radical&locale=en&layout=compact" alt="marcosyh" /></p>
+<p align="center">
+  <img src="./assets/terminal.svg" width="88%" alt="Terminal: Marcos YEHOUESSI, full-stack developer, based in the South of France, ISEN engineering year 3, TypeScript, Python and Dart" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosyh&show_icons=true&theme=radical&title_color=6c9ef3&text_color=37b8a9&bg_color=1a1b27&locale=en" alt="marcosyh" /></p>
+## Now
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosyh&" alt="marcosyh" /></p>
-<br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosyh&label=Profile%20views&color=0e75b6&style=flat" alt="marcosyh" /> </p>
+Full-stack developer and engineering student at ISEN. I work across the stack: web and mobile interfaces, APIs, and the LLM features that plug into them.
 
+- **Studying:** 3rd year of the engineering cycle at ISEN (2026–2027)
+- **Based in:** South of France
+- **Focus:** LLM and embedding features in production apps
+- **Off-screen:** video games, reading, music, sport
 
-**📅 Last update on <#today_date>
+## My career
 
-**🎉 <#day_before_new_years> days before new years
+<p align="center">
+  <img src="./assets/commit-graph.svg" width="100%" alt="git log --graph. ISEN engineering year 3 (2026-2027). Full-stack developer at Beewton (2025 to Aug 2026). Frontend developer at Intside (Jul 2023 to Oct 2024). Bachelor's in software engineering at IFRI (2020-2023). Top 10 finalist at Arène (2023). Web and mobile intern at Rintio (2022). Baccalauréat (2019-2020)." />
+</p>
 
-<!--
-**MarcosYH/MarcosYH** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+## Things I've shipped
 
-Here are some ideas to get you started:
+Client and company work lives in private repositories, so here is the what and the how, without the names.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain | What I worked on | Stack |
+|---|---|---|
+| **AI recruitment platform** | CV parsing and candidate matching engine, recruiter and candidate apps, realtime features | FastAPI, OpenAI, Claude, NestJS, MongoDB, Next.js |
+| **HR & organization suite** | Employee and admin portals, backend APIs, a Flutter mobile app | Next.js, Express, Supabase, Redis, Flutter |
+| **Subscriber learning platform** | Web member area, API and Flutter mobile app | Nuxt, Vue, Cloudflare, Flutter, Firebase |
+| **Creator platform** | Creator dashboard and landing page, covered with end-to-end tests | Next.js, Playwright |
+
+**In the open:** [Zero2hero](https://github.com/MarcosYH/zero2heroo) (cybersecurity learning platform) · [System Solar](https://github.com/MarcosYH/system-solar) (the solar system with 3D planets) · [Foodieland](https://github.com/MarcosYH/Foodieland) (recipe showcase) · [Visitbj](https://github.com/MarcosYH/Visitbj) (Bénin tourism landing page)
+
+## Tech stack
+
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,dart,java,c&theme=dark" alt="TypeScript, JavaScript, Python, Dart, Java, C" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,html,css,figma&theme=dark" alt="Next.js, React, Nuxt, Vue, Tailwind CSS, HTML, CSS, Figma" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&theme=dark" alt="Node.js, NestJS, Express, FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Flutter, Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis,mysql&theme=dark" alt="MongoDB, PostgreSQL, Supabase, Redis, MySQL" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Ship & test</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,cloudflare,azure,git,github,gitlab,vitest&theme=dark" alt="Docker, Cloudflare, Azure, Git, GitHub, GitLab, Vitest" /></td>
+  </tr>
+</table>
+
+<sub>Also worked with: Angular, Ionic, Bootstrap.</sub>
+
+## How I build
+
+<p align="center">
+  <img src="./assets/architecture.svg" width="100%" alt="Typical architecture: web and mobile clients talk to Node APIs, which call a Python AI engine and data stores, deployed on cloud and edge infrastructure" />
+</p>
+
+## GitHub telemetry
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosYH&theme=github_dark" width="88%" alt="GitHub contributions summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosYH&theme=github_dark" width="44%" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcosyh&label=Profile%20views&color=30363d&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<div align="center">
+
+📅 Last update on <#today_date>
+
+🎉 <#day_before_new_years>
+
+</div>
 `;

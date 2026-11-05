@@ -69,21 +69,6 @@ Client and company work lives in private repositories, so here is the what and t
 
 <sub>Also worked with: Angular, Ionic, Bootstrap.</sub>
 
-## How I build
-
-<p align="center">
-  <img src="./assets/architecture.svg" width="100%" alt="Typical architecture: web and mobile clients talk to Node APIs, which call a Python AI engine and data stores, deployed on cloud and edge infrastructure" />
-</p>
-
-## GitHub telemetry
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosYH&theme=github_dark" width="88%" alt="GitHub contributions summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosYH&theme=github_dark" width="44%" alt="GitHub stats" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcosyh&label=Profile%20views&color=30363d&style=flat" alt="Profile views" />
 </p>
